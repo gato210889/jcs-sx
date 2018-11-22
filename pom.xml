@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>farmacos.com.mx</groupId>
+  <artifactId>CursoJCS_SX</artifactId>
+  <version>1.0.0</version>
+  <packaging>pom</packaging>
+  <name>CursoJCS_SX</name>
+  <modules>
+    <module>CursoHHR_SX-ear</module>
+    <module>CursoHHR_SX-web</module>
+    <module>CursoHHR_SX-ejb</module>
+  </modules>
+</project>
